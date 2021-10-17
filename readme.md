@@ -1,3 +1,19 @@
+## Sobre o aplicativo ap-futebol
+O sistema Ap-Futebol, é uma solução que permite cadastrar jogadores, agendar jogos e efetuar um sorteio dos jogadores participantes. O ojetivo é auxiliar e facilitar nas escalações dos times.
+
+A aplicação possui 4 opções para seu menu de funções:
+Home, Atletas, Jogos e Sorteio
+
+Home: são apresentado um resumo de conteudos alimentados nas demais funcoes;
+
+Sessão Atletas: responsável em listar e/ou cadastrar os atletas/jogadores;
+
+Sessão Jogos: responsável em listar e/ou cadastrar o agendamento dos jogos, nela também é permitido confirmar a presenta dos atletas;
+
+Sessão Sorteio: responsável em listar os jogos agendados e permitir que o sistema sorteio os times, no sorteio são aplicadas regras e validações automaticas, garantindo que a quantidade de jogadores seja compativel com o numero de atletas confirmados.
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
